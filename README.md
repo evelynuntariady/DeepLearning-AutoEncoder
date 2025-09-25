@@ -1,6 +1,6 @@
 # DeepLearning-AutoEncoder
 
-YOU CAN SEE THE DATASET IN THE LINK
+YOU CAN SEE THE DATASET IN THIS LINK : https://binusianorg-my.sharepoint.com/personal/evelyn_untariady_binus_ac_id/_layouts/15/guestaccess.aspx?share=ERXvEsnMFItBjNvHHwzTUQQBTXqE8I5UCUVlOc3YArKkgA&e=wCHBAX
 
 This project applies a deep learning autoencoder to learn compressed representations of the Nuts dataset for dimensionality reduction and anomaly detection. Autoencoders are useful for uncovering hidden patterns in data, identifying unusual cases, and improving downstream machine learning tasks.
 
