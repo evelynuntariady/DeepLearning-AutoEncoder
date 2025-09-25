@@ -1,4 +1,7 @@
 # DeepLearning-AutoEncoder
+
+YOU CAN SEE THE DATASET IN THE LINK
+
 This project applies a deep learning autoencoder to learn compressed representations of the Nuts dataset for dimensionality reduction and anomaly detection. Autoencoders are useful for uncovering hidden patterns in data, identifying unusual cases, and improving downstream machine learning tasks.
 
 Features :
